@@ -1,4 +1,4 @@
-package Laprak6;
+package Guided;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

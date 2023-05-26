@@ -1,4 +1,4 @@
-package Laprak6;
+package Guided;
 
 public class TryCatch {
     public static void main(String[] args) {
