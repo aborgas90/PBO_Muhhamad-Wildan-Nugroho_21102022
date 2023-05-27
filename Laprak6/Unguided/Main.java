@@ -24,7 +24,7 @@ public class Main {
                 System.out.println("Hasil dari Penjumlahan : " + Result);
 
                 division = firstNumber / secondNumber;
-                System.out.println("Hasil dari Ppembagian:" + division);
+                System.out.println("Hasil dari Pembagian:" + division);
 
             } catch (InputMismatchException e) {
                 System.out.println("Error : Input tida valid. Harap masukkan bilangan bulat");
