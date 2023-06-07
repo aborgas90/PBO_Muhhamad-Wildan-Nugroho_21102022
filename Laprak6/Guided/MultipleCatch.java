@@ -2,7 +2,7 @@ package Guided;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
+//Muhhamad Wildan Nugroho (IF09 O)-21102022
 public class MultipleCatch {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {

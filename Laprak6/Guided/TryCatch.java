@@ -1,5 +1,6 @@
 package Guided;
 
+//Muhhamad Wildan Nugroho (IF09 O)-21102022
 public class TryCatch {
     public static void main(String[] args) {
         //membuat array
